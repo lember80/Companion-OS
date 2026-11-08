@@ -1,0 +1,6 @@
+{
+  "name": "Companion OS",
+  "description": "Futuristic AI Companion HUD and Japanese Tutor featuring Sandra & Laura with Gemini AI chat and customizable skill generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
